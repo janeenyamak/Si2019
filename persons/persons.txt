@@ -1,0 +1,4 @@
+Dad 50
+Mom 45
+Sister 18
+Dog 2
